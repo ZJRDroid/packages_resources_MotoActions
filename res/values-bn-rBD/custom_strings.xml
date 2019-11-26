@@ -19,7 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
-    <string name="moto_actions_title">মোটো অ্যাকশন</string>
+    <string name="lineage_actions_title">মোটো অ্যাকশন</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">চালু করুন</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
